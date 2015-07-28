@@ -8,7 +8,7 @@ How to use this skeleton:
 
 To setup your development environment, install the following Python packages:
 pip from http://pypi.python.org/pypi/pip
-distribute from http://pypi.python.org/pypi/distribute
+distribute from http://pypi.python.org/pypi/distribute (used to make pip distro)
 nose from http://pypi.python.org/pypi/nose/
-virtualenv from http://pypi.python.org/pypi/virtualenv
+virtualenvwrapper from https://pypi.python.org/pypi/virtualenvwrapper
 
